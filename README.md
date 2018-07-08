@@ -1,4 +1,3 @@
-# www.ishubhamsingh.com
 My Website hosted on github.
 
-Visit Here:-[www.ishubhamsingh.com](http://www.ishubhamsingh.com)
+Visit Here:-[Touch here](https://amog787.github.io)
